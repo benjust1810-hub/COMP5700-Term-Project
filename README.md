@@ -1,6 +1,6 @@
 # COMP5700-Term-Project
 Term Project for COMP5700
-NOTE: Task 1 and Task 4 were too large to upload to GitHub as a result of the 25MB limit on files. I have attached a .txt file with a URL link to them on Google Drive. They will be downloadable from there.
+# NOTE: Task 1 and Task 4 were too large to upload to GitHub as a result of the 25MB limit on files. I have attached a .txt file with a URL link to them on Google Drive. They will be downloadable from there.
 
 
 ## Course Project 
