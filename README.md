@@ -1,6 +1,6 @@
 # COMP5700-Term-Project
 Term Project for COMP5700
-# NOTE: Task 1 and Task 4 were too large to upload to GitHub as a result of the 25MB limit on files. I have attached a .txt file with a URL link to them on Google Drive. They will be downloadable from there.
+# NOTE: Task 1 and Task 4 were too large to upload to GitHub as a result of the 25MB limit on files. I have attached a .txt file with a URL link to them on Google Drive. They will be downloadable from there. All Task Code is located in generate_aidev_csvs.py and is properly labelled; it was easier to do them all in one large file but the code is present.
 
 
 ## Course Project 
